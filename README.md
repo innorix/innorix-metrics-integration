@@ -1,5 +1,11 @@
 # INNORIX Metrics Integration
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Prometheus](https://img.shields.io/badge/Prometheus-Supported-E6522C)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Supported-425CC7)
+![License](https://img.shields.io/badge/License-Commercial-red)
+![Status](https://img.shields.io/badge/Status-Official-success)
+
 Official integration examples for exporting INNORIX transfer metrics to Prometheus and OpenTelemetry.
 
 ## Supported Platforms
